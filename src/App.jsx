@@ -2,7 +2,7 @@ import iconStar from "./assets/icon-star.svg"
 
 export function App() {
   return(
-    <div>
+    <div className="bg-gradient-dark mx-6 p-6 rounded-2xl text-white font-overpass">
 
       <div>
      <img src={iconStar} alt="icon star" /> 
